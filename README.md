@@ -85,44 +85,44 @@ HandsMen Threads is implementing Salesforce to centralize data, automate core wo
 
 ### 🔄 Custom Objects: HandsMen Product
 
-![HandsMen Product](screenshots/HandsMen_Product.png)
+![HandsMen Product](Screenshots/HandsMen_Product.png)
 
 ---
 
 ### 🔄 Custom Objects: Inventory
 
-![Inventory](screenshots/Inventory.png)
+![Inventory](Screenshots/Inventory.png)
 
 ---
 
 
 ### 🔄 Flow: Loyalty Status Update
 
-![Loyalty Status Flow](screenshots/Loyalty_Program_Flow.png)
+![Loyalty Status Flow](Screenshots/Loyalty_Program_Flow.png)
 
 ---
 
 ### 🔄 Flow: Order Confirmation
 
-![Order Confirmation Flow](screenshots/Order_Confirmation_Flow.png)
+![Order Confirmation Flow](Screenshots/Order_Confirmation_Flow.png)
 
 ---
 
 ### 🔄 Flow: Stock Alert
 
-![Stock Alert Flow](screenshots/Low_Stock_Alert_Flow.png)
+![Stock Alert Flow](Screenshots/Low_Stock_Alert_Flow.png)
 
 ---
 
 ### 🔄 Classic Email Template
 
-![Classic Email Template](screenshots/Email_Order_Template.png)
+![Classic Email Template](Screenshots/Email_Order_Template.png)
 
 ---
 
 ### 🔄 Developer Console
 
-![Developer Console](screenshots/Developer_Console.png)
+![Developer Console](Screenshots/Developer_Console.png)
 
 ---
 
