@@ -98,7 +98,7 @@ HandsMen Threads is implementing Salesforce to centralize data, automate core wo
 
 ### 🔄 Flow: Loyalty Status Update
 
-![Loyalty Status Flow](Screenshots/Loyalty_Program_Flow.png)
+![Loyalty Status Flow](Screenshots/Loyalty_Program_Email.png)
 
 ---
 
