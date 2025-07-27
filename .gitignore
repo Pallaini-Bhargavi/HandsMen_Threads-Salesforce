@@ -1,0 +1,82 @@
+# ─────────────────────────────
+# Core Salesforce DX Files
+# ─────────────────────────────
+.sfdx/                   # Auth files and org settings
+.sf/                     # Secure auth files (newer CLI)
+auth/
+*.log
+*.tmp
+
+# ─────────────────────────────
+# VS Code & Editor-Specific
+# ─────────────────────────────
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ─────────────────────────────
+# Node/JS/TS/Tooling (if using npm or JS components)
+# ─────────────────────────────
+node_modules/
+package-lock.json
+npm-debug.log
+yarn.lock
+
+# ─────────────────────────────
+# Test Coverage / Tooling
+# ─────────────────────────────
+coverage/
+jest.config.js
+*.test.js
+*.test.ts
+*.map
+
+# ─────────────────────────────
+# Custom Tooling (based on your project)
+# ─────────────────────────────
+tools/
+typings/
+custom-components.json
+indexes/
+
+# ─────────────────────────────
+# Git-related
+# ─────────────────────────────
+*.swp
+
+# ─────────────────────────────
+# Build or Misc. Tooling
+# ─────────────────────────────
+dist/
+build/
+.idea/
+
+# ─────────────────────────────
+# Other Ignored Files
+# ─────────────────────────────
+.env
+*.bak
+*.old
+
+# ─────────────────────────────
+# Uncomment if Scratch Org Definition files shouldn't be tracked
+# ─────────────────────────────
+# config/
+# project-scratch-def.json
+
+
+# ─────────────────────────────
+# Force INCLUDE Salesforce project files & folders
+# ─────────────────────────────
+!.gitignore
+!.forceignore
+!.sfdx/
+!.sf/
+!config/
+!.idea/
+!force-app/
+!manifest/
+!sfdx-project.json
+!Demo Video.mp4
+!Documentation.pdf
+!Screenshots/
