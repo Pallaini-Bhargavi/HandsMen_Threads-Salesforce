@@ -85,7 +85,7 @@ HandsMen Threads is implementing Salesforce to centralize data, automate core wo
 
 ### 🔄 Custom Objects: HandsMen Product
 
-![HandsMen Product](Screenshots/HandsMen_Product.png)
+![HandsMen Product](Screenshots/Handsmen_Product.png)
 
 ---
 
